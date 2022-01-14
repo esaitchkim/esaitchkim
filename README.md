@@ -42,7 +42,4 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=esaitchkim&show_icons=true&count_private=true&hide=stars&theme=slateorange)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=esaitchkim&layout=compact&theme=slateorange)
-
-<br>
-
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=lautum)](https://solved.ac/lautum/)
