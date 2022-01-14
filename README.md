@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Sangho&nbsp;Kim&fontSize=80&animation)
 <!-- Stacks -->
-<div class="stacks" align="center">
+<div class="stacks">
 <h1> 🛠️ Tech Stack </h2>
 <!-- C -->
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white"> 
@@ -31,3 +31,18 @@
 <!-- Firebase -->
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=white">
 </div>
+
+---
+
+<!-- Stats -->
+
+
+<!-- Stats -->
+<h1>🏆 Stats</h1>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=esaitchkim&show_icons=true&count_private=true&hide=stars&theme=slateorange)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=esaitchkim&layout=compact&theme=slateorange)
+
+<br>
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=lautum)](https://solved.ac/lautum/)
