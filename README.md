@@ -32,14 +32,17 @@
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=white">
 </div>
 
----
-
 <!-- Stats -->
-
-
-<!-- Stats -->
+<div class="stats">
 <h1>🏆 Stats</h1>
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=lautum)](https://solved.ac/lautum/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devkimsangho&layout=compact&theme=slateorange)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=devkimsangho&show_icons=true&count_private=true&hide=stars&theme=slateorange)
+<div class="github-stats">
+<h2>🔸 GitHub Stats </h2>
+<img class="github-stats" src="https://github-readme-stats.vercel.app/api?username=devkimsangho&show_icons=true&count_private=true&hide=stars&theme=slateorange">
+<img class="toplangs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devkimsangho&layout=compact&theme=slateorange">
+</div>
+<br>
+<div class="solvedac-stats">
+<h2>🔸 Solved.ac</h2>
+<a class="solvedac" href="https://solved.ac/lautum/"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=lautum"></a>
+</div>
+</div>
