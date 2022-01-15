@@ -40,6 +40,6 @@
 <!-- Stats -->
 <h1>🏆 Stats</h1>
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=lautum)](https://solved.ac/lautum/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=esaitchkim&layout=compact&theme=slateorange)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=lautum)](https://solved.ac/lautum/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devkimsangho&layout=compact&theme=slateorange)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=esaitchkim&show_icons=true&count_private=true&hide=stars&theme=slateorange)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=devkimsangho&show_icons=true&count_private=true&hide=stars&theme=slateorange)
