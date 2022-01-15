@@ -37,8 +37,8 @@
 <h1>🏆 Stats</h1>
 <div class="github-stats">
 <h2>🔸 GitHub Stats </h2>
-<img class="github-stats" src="https://github-readme-stats.vercel.app/api?username=devkimsangho&show_icons=true&count_private=true&hide=stars&include_all_commits=true&theme=slateorange">
-<img class="toplangs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devkimsangho&layout=compact&theme=slateorange">
+<img class="github-stats" src="https://github-readme-stats.vercel.app/api?username=devkimsangho&show_icons=true&count_private=true&hide=stars&include_all_commits=true&icon_color=fff&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
+<img class="toplangs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devkimsangho&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
 </div>
 <br>
 <div class="solvedac-stats">
