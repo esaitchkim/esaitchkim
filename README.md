@@ -46,3 +46,13 @@
 <a class="solvedac" href="https://solved.ac/lautum/"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=lautum"></a>
 </div>
 </div>
+
+---
+<div class="footer">
+<a href="mailto:esaitchkim@gmail.com"><img src="https://img.shields.io/badge/esaitchkim@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:esaitchkim@gmail.com"></a>&nbsp;&nbsp;
+<a href="mailto:sariel_ruby@naver.com"><img src="https://img.shields.io/badge/sariel_ruby@naver.com-03C75A?style=flat-square&logo=naver&logoColor=white&link=mailto:sariel_ruby@naver.com"></a>&nbsp;&nbsp;
+<a href="mailto:esaitch@kakao.com"><img src="https://img.shields.io/badge/esaitch@kakao.com-FFCD00?style=flat-square&logo=kakaotalk&logoColor=black&link=mailto:esaitch@kakao.com">
+<br><br>
+<img alt="GitHub followers" src="https://img.shields.io/github/followers/devkimsangho?style=social"> &nbsp;&nbsp;
+<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdevkimsangho%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/>
+</div>
