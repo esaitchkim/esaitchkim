@@ -43,7 +43,7 @@
 <br>
 <div class="solvedac-stats">
 <h2>🔸 Solved.ac</h2>
-<a class="solvedac" href="https://solved.ac/lautum/"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=lautum"></a>
+<a class="solvedac" href="https://solved.ac/devkimsangho/"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=devkimsangho"></a>
 </div>
 </div>
 
