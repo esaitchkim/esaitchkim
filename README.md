@@ -18,9 +18,9 @@
 <!-- CSS -->
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white">
 <!--
-<!-- Node.js -->
+Node.js
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white">
-<!-- Django -->
+Django
 <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white">
 <br> -->
 <!-- Dart -->
