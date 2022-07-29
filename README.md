@@ -17,11 +17,12 @@
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white">
 <!-- CSS -->
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white">
+<!--
 <!-- Node.js -->
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white">
 <!-- Django -->
 <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white">
-<br>
+<br> -->
 <!-- Dart -->
 <img src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white">
 <!-- Flutter -->
