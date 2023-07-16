@@ -38,8 +38,8 @@ Django
 <h1>🏆 Stats</h1>
 <div class="github-stats">
 <h2>🔸 GitHub Stats </h2>
-<img class="github-stats" src="https://github-readme-stats.vercel.app/api?username=devkimsangho&show_icons=true&count_private=true&hide=stars&include_all_commits=true&icon_color=fff&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
-<img class="toplangs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devkimsangho&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
+<img class="github-stats" src="https://github-readme-stats.vercel.app/api?username=esaitchkim&show_icons=true&count_private=true&hide=stars&include_all_commits=true&icon_color=fff&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
+<img class="toplangs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=esaitchkim&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
 </div>
 <br>
 <div class="solvedac-stats">
@@ -54,6 +54,6 @@ Django
 <a href="mailto:sariel_ruby@naver.com"><img src="https://img.shields.io/badge/sariel_ruby@naver.com-03C75A?style=flat-square&logo=naver&logoColor=white&link=mailto:sariel_ruby@naver.com"></a>&nbsp;&nbsp;
 <a href="mailto:esaitch@kakao.com"><img src="https://img.shields.io/badge/esaitch@kakao.com-FFCD00?style=flat-square&logo=kakaotalk&logoColor=black&link=mailto:esaitch@kakao.com"></a>
 <br><br>
-<img alt="GitHub followers" src="https://img.shields.io/github/followers/devkimsangho?style=social">&nbsp;&nbsp;
-<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdevkimsangho%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/>
+<img alt="GitHub followers" src="https://img.shields.io/github/followers/esaitchkim?style=social">&nbsp;&nbsp;
+<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fesaitchkim%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/>
 </div>
