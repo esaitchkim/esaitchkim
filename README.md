@@ -44,7 +44,7 @@ Django
 <br>
 <div class="solvedac-stats">
 <h2>🔸 Solved.ac</h2>
-<a class="solvedac" href="https://solved.ac/esaitchkim/"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=esaitchkim"></a>
+<a class="solvedac" href="https://solved.ac/esaitch/"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=esaitch"></a>
 </div>
 </div>
 
