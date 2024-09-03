@@ -38,7 +38,7 @@ Django
 <h1>🏆 Stats</h1>
 <div class="github-stats">
 <h2>🔸 GitHub Stats </h2>
-<img class="github-stats" src="https://github-readme-stats.vercel.app/api?username=esaitchkim&show_icons=true&count_private=true&hide=stars&include_all_commits=true&icon_color=fff&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
+<img class="github-stats" src="https://github-readme-stats.vercel.app/api?username=esaitchkim&show_icons=true&include_all_commits=true&icon_color=fff&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
 <img class="toplangs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=esaitchkim&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
 </div>
 <br>
